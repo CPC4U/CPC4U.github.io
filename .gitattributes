@@ -1,2 +1,27 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBQGy-MxiocKu0wRkH6hQFGGKV3z3FtNNcOoUvTMBtw&s" alt="ohio" width="128" height="128">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBQGy-MxiocKu0wRkH6hQFGGKV3z3FtNNcOoUvTMBtw&s" alt="0h10" style="width:1px;height:1px;">
+
+<a href="https://github.com/CPC4U/8b8t">My github!</a>
+
+<h1>Goofy ahh heading</h1>
+
+<p>Goofy ahh paragraph.</p>
+
+
+</body>
+</html>
